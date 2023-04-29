@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at here in this GitHub account.
 
-- 📫 How to reach me? Reach me @ **joaopereira2213@gmail.com** or @ **linkedin.com/in/joao-joao**
+- 📫 How to reach me? Reach me @ **joaopereira2213@gmail.com** or @ **[linkedin.com/in/joao-joao](https://www.linkedin.com/in/joao-joao/)**
 
 - ⚡ Fun fact: **My name is pronounced like the word "cow" (unless you know Portuguese ;))**
 
