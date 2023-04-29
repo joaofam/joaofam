@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joao Pereira</h1>
 <h3 align="center">I have a passion of generating ideas and then developing them onto a real-world scenario. I also have a desired love for Linux</h3>
 
-- 🔭 I’m currently working on **Fileflo and joaopereira.ie**
+- 🔭 I’m currently working on **Fileflo** and **joaopereira.ie**
 
-- 🌱 I’m currently learning **Next, Docker and as many shell-scripting languages as I can**
+- 🌱 I’m currently learning **Next.js**, **Docker** and as many **shell-scripting** languages as I can**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joaofam](https://github.com/joaofam)
+- 👨‍💻 All of my projects are available at here in this GitHub account.
 
 - 📫 How to reach me **joaopereira2213@gmail.com**
 
