@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joao Pereira</h1>
 <h3 align="center">I have a passion of generating ideas and then developing them onto a real-world scenario. I also have a desired love for Linux</h3>
 
-- 🔭 I’m currently working on **Fileflo** and **joaopereira.ie**
+- 🔭 Currently an Applications Developer
 
-- 🌱 I’m currently learning **Next.js**, **Docker** and as many **shell-scripting** languages as I can**
+- 🌱 Lately working with PTC products and customisations
 
 - 👨‍💻 All of my projects are available at here in this GitHub account.
 
 - 📫 How to reach me? Reach me @ **joaopereira2213@gmail.com** or @ **[linkedin.com/in/joao-joao](https://www.linkedin.com/in/joao-joao/)**
 
-- ⚡ Fun fact: **My name is pronounced like the word "cow" (unless you know Portuguese ;))**
+- ⚡ Fun fact: **My name is pronounced like the word "cow" except with a J**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
